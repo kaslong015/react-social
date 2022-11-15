@@ -1,0 +1,59 @@
+.navbar{
+	display:flex;
+	align-items: center;
+	padding: 10px 20px;
+	height: 50px;
+	justify-content: space-between;
+	border-bottom: 1px solid lightgray;
+
+	.left{
+
+		display:flex;
+		align-items: center;
+		gap: 30px;
+		span{
+			font-size: 20px;
+			font-weight: bold;
+			color: purple;
+		}
+		.search{
+
+			display:flex;
+			align-items: center;
+			gap:10px;
+			padding:5px;
+			border-radius: 5px;
+			border: 1px solid lightgrey;
+			
+
+			input{
+				width: 500px;
+				border:none;
+			}
+		}
+	}
+
+	.right{
+
+		display:flex;
+		align-items: center;
+		gap:20px;
+
+		.user{
+
+			display:flex;
+			align-items: center;
+			gap:10px;
+			font-weight: 700;
+
+			img{
+				width:30px;
+				height:30px;
+				object-fit: cover;
+				border-radius: 50%;
+			}
+
+			span{}
+		}
+	}
+}
