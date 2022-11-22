@@ -77,33 +77,38 @@ const RightBar = () => {
 					<div className="user">
 						<div class="userinfo">
 							<img src="https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="" srcset="" />
-							<span>john Doe</span> 					
-						</div>						
+							<div className="online"></div>
+							<span>john Doe</span>
+						</div>
 					</div>
 					<div className="user">
 						<div class="userinfo">
 							<img src="https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="" srcset="" />
-							<span>john Doe</span> 					
-						</div>						
+							<div className="online"></div>
+							<span>john Doe</span>
+						</div>
 					</div>
 					<div className="user">
 						<div class="userinfo">
 							<img src="https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="" srcset="" />
-							<span>john Doe</span> 					
-						</div>						
+							<div className="online"></div>
+							<span>john Doe</span>
+						</div>
 					</div>
 					<div className="user">
 						<div class="userinfo">
 							<img src="https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="" srcset="" />
-							<span>john Doe</span> 					
-						</div>						
+							<div className="online"></div>
+							<span>john Doe</span>
+						</div>
 					</div>
 					<div className="user">
-					<div class="userinfo">
-						<img src="https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="" srcset="" />
-						<span>john Doe</span> 					
-					</div>						
-				</div>
+						<div class="userinfo">
+							<img src="https://images.pexels.com/photos/3228727/pexels-photo-3228727.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="" srcset="" />
+							<div className="online"></div>
+							<span>john Doe</span>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
